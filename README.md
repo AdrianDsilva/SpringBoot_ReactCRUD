@@ -6,6 +6,9 @@ The database in application.properties is mentioned for MS SQL and Postgre(Herok
 The project is deployed on heroku 
 Link is - https://springboot-react-crud.herokuapp.com/
 
+
+**Sample Screenshots**
+
 **View the list of Employees**
 ![image](https://user-images.githubusercontent.com/83913826/117653741-6b742180-b1b2-11eb-945a-f49b6ccd5589.png)
 
